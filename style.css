@@ -1,0 +1,111 @@
+body {
+    background-color: #040001;
+    text-align:center;
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+li {
+    display: inline-block;
+    margin-top:20px;
+   
+    
+    
+   
+}
+.mckenna {
+    position:absolute;
+    z-index: 1;
+    right:65%;
+}
+
+
+h1 {
+    font-family: 'Mea Culpa', cursive;
+    font-size: 5rem;
+    margin-right:100px;
+    
+   
+}
+
+.first-line {
+    background-image: linear-gradient(to bottom,black, #58070E, #D81420, #C1101B);
+    
+    position:absolute;
+    margin-top:50px;
+    left:40%;
+   
+     
+     
+}
+.second-line{
+
+    position:absolute;
+    display:table;
+    width: 50%;
+    margin-top:150px;
+    left:40%;
+    
+   
+}
+.third-line {
+    
+   
+    position:absolute;
+    margin-top:250px;
+    left:40%;
+    
+}
+.fourth-line {
+    
+   
+    position:absolute;
+    margin-top:390px;
+    left:40%;
+    
+}
+.fifth-line {
+    
+   
+    position:absolute;
+    margin-top:410px;
+    left:40%;
+    
+}
+.sixth-line {
+    
+   
+    position:absolute;
+    margin-top:430px;
+    left:40%;
+    
+}
+.seventh-line {
+    
+   
+    position:absolute;
+    margin-top:450px;
+    left:40%;
+    
+}
+.btn {
+    position:absolute;
+    margin-top:490px;
+    left:40%;
+}
+.home {
+    margin-left:250px;
+    color:white;
+}
+.pricing {
+    margin-left:180px;
+}
+.offer {
+    margin-left:220px;
+}
+.bi {
+    margin-left:220px;
+    color:white;
+}
